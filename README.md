@@ -22,9 +22,12 @@ Develop a user-friendly platform for second-hand car transactions with authentic
 ### 👤 User Role
 - **Car Search and Request**: Browse available cars and send purchase requests.
 
+## 🌍 Live Demo
+🔗 [Visit the Website](https://secondhandcarapp.web.app/)
+
 ## 📷 Demo
 ### 🎥 Video Walkthrough
-[![Watch Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_HERE)
+[![Watch Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg)](https://drive.google.com/file/d/1Y9Gf7rHTmJl5AjyVIvtPZSJX2r-h8OKq/view?usp=sharing)
 
 ### 🖼 Sample Screenshots
 | Home Page | Car Listings | Admin Dashboard |
@@ -46,7 +49,7 @@ Develop a user-friendly platform for second-hand car transactions with authentic
    ```
 4. Start the development server:
    ```bash
-   npm run dev 
+   npm run dev
    ```
 5. Configure Firebase/Supabase authentication in `.env` file.
 
